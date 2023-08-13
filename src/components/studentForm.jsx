@@ -48,7 +48,7 @@ function StudentForm({ onSubmit, onCancel, initialData }) {
             </div>
             <div>
                 <label htmlFor="birthYear">Год рождения</label>
-                <input
+                 <input
                     type="number"
                     id="birthYear"
                     value={birthYear}
